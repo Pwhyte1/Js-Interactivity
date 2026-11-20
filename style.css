@@ -80,3 +80,10 @@ h1{
 .flex button:hover{
     background: gold;
 }
+.answer-btn:disabled.selected{
+    background-color: aqua;
+    color: white;
+}
+.answer-btn:disabled{
+ background: gray;
+}
